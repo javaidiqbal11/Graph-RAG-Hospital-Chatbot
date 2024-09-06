@@ -50,7 +50,7 @@ To run this project, follow these steps:
 
 2. **Navigate to the project directory**:
     ```sh
-    cd graph-rag-hospital-chatbot
+    cd Graph-RAG-Hospital-Chatbot
     ```
 
 3. **Set up a virtual environment**:
