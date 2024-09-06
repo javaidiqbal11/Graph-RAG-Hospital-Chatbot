@@ -45,7 +45,7 @@ To run this project, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/javaidiqbal11/graph-rag-hospital-chatbot.git
+    git clone https://github.com/javaidiqbal11/Graph-RAG-Hospital-Chatbot.git
     ```
 
 2. **Navigate to the project directory**:
