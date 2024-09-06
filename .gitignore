@@ -1,0 +1,8 @@
+langchain_intro
+env_rag
+.vscode
+zscaler.crt
+__pycache__
+.*__pycache__
+./chatbot_api/zscaler.crt
+./chatbot_frontend/zscaler.crt
