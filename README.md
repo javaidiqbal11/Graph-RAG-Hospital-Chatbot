@@ -30,7 +30,7 @@ This project features a versatile chatbot capable of intelligently selecting the
 
 ## How It Works
 
-1. **Agent-Based Decision Making**: The chatbot's agent evaluates the user's query and determines the most suitable tool to use.
+1. **Agent-Based Decision Making**: The chatbot's agent evaluates the user's query and determines the most suitable tool to use.<br>
 2. **Retrieval**: This chatbot can retrieve relavant information from both structured and unstructured text sources.<br>
    2.1. **Structured**: When a semantic search is needed, the agent uses OpenAI embedding models to search within the vector database and retrieve the most relevant information.<br>
    2.2. **Unstructured**: For queries that can be answered using the graph database, the agent will generate and execute Cypher queries.<br>
