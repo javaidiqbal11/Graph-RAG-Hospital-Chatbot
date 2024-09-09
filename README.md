@@ -1,6 +1,6 @@
 # AI Chatbot for a Large Hospital System
 
-This **Graph RAG chatbot** is designed to provide quick answers to various questions about a large hospital system, such as:
+This **Graph RAG Hospital chatbot** is designed to provide quick answers to various questions about a large hospital system, such as:
 
 - What is the current wait time at XYZ hospital?
 - Which hospital has the shortest wait time right now?
